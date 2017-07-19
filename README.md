@@ -3,8 +3,6 @@ Simple Knowledge Base App built with Node, Express and MongoDB
 
 Article Knowledgebase Application
 
-This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
-
 Technologies
 
 Node.js
